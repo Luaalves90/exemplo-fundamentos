@@ -1,0 +1,14 @@
+C:\Users\luaal\OneDrive\Área de Trabalho\Exemplo Fundamentos\bin\Debug\net9.0\Exemplo Fundamentos.exe
+C:\Users\luaal\OneDrive\Área de Trabalho\Exemplo Fundamentos\bin\Debug\net9.0\Exemplo Fundamentos.deps.json
+C:\Users\luaal\OneDrive\Área de Trabalho\Exemplo Fundamentos\bin\Debug\net9.0\Exemplo Fundamentos.runtimeconfig.json
+C:\Users\luaal\OneDrive\Área de Trabalho\Exemplo Fundamentos\bin\Debug\net9.0\Exemplo Fundamentos.dll
+C:\Users\luaal\OneDrive\Área de Trabalho\Exemplo Fundamentos\bin\Debug\net9.0\Exemplo Fundamentos.pdb
+C:\Users\luaal\OneDrive\Área de Trabalho\Exemplo Fundamentos\obj\Debug\net9.0\Exemplo Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luaal\OneDrive\Área de Trabalho\Exemplo Fundamentos\obj\Debug\net9.0\Exemplo Fundamentos.AssemblyInfoInputs.cache
+C:\Users\luaal\OneDrive\Área de Trabalho\Exemplo Fundamentos\obj\Debug\net9.0\Exemplo Fundamentos.AssemblyInfo.cs
+C:\Users\luaal\OneDrive\Área de Trabalho\Exemplo Fundamentos\obj\Debug\net9.0\Exemplo Fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\luaal\OneDrive\Área de Trabalho\Exemplo Fundamentos\obj\Debug\net9.0\Exemplo Fundamentos.dll
+C:\Users\luaal\OneDrive\Área de Trabalho\Exemplo Fundamentos\obj\Debug\net9.0\refint\Exemplo Fundamentos.dll
+C:\Users\luaal\OneDrive\Área de Trabalho\Exemplo Fundamentos\obj\Debug\net9.0\Exemplo Fundamentos.pdb
+C:\Users\luaal\OneDrive\Área de Trabalho\Exemplo Fundamentos\obj\Debug\net9.0\Exemplo Fundamentos.genruntimeconfig.cache
+C:\Users\luaal\OneDrive\Área de Trabalho\Exemplo Fundamentos\obj\Debug\net9.0\ref\Exemplo Fundamentos.dll
