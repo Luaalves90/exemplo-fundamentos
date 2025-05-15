@@ -1,0 +1,11 @@
+# Pastas e arquivos gerados automaticamente
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.json
+*.txt
+*.db
+*.log
